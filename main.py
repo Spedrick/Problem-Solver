@@ -1,13 +1,16 @@
 import wolframalpha
     
-app_id = input('Enter your api_id \n You may obtain one on the official website of Wolf ram Alpha\n api_id:-:')
+app_id = input("Enter your api_id:-")
 
 i=0
 while i==0:
     # Taking input from user 
     question = input("Question: ")
     question = question.lower()
-    question = question.replace("in wikipedia", "search", "wikipedia", "about","on wikipedia","google","what is","who is") 
+    if "who is" in question:
+        question = question.replace("who is")
+    elif "what is" in question:
+        question = question.replace("what is") 
     
     if 'exit' in question:
         break
