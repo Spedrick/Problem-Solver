@@ -1,7 +1,6 @@
-# AskMe -
-  A practice project for learning to use Wolframalpha api.
+A practice project for learning to use Wolframalpha api.
   
-  The [Wolfram|Alpha Webservice](https://www.wolframalpha.com/) API provides a web-based API allowing the computational and presentation capabilities of Wolfram|Alpha to be integrated into web, mobile, desktop, and enterprise applications. Wolfram Alpha is an API which can compute expert-level answers using Wolfram’s algorithms, knowledgebase and AI technology. It is made possible by the Wolfram Language. This article tells how to create a simple assistant application in Python which can answer simple questions
+   The [Wolfram|Alpha Webservice](https://www.wolframalpha.com/) API provides a web-based API allowing the computational and presentation capabilities of Wolfram|Alpha to be integrated into web, mobile, desktop, and enterprise applications. Wolfram Alpha is an API which can compute expert-level answers using Wolfram’s algorithms, knowledgebase and AI technology. It is made possible by the Wolfram Language. This article tells how to create a simple assistant application in Python which can answer simple questions
 
 # Prerequisite: Basic understanding of python syntax and functions.
 1. Wolf ram alpha api:-
