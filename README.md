@@ -20,11 +20,13 @@ Now you will see the homepage of the website.
 Head to the section in the top right corner where you see your email. 
 In the drop down menu, select the My Apps (API) option.
 
+
 # Output:-
 ```
 Enter your api_id:-######-##########
-Question: integrate sinxcosx
+Question: integration of sinxcosx
 integral sin(x) cos(x) dx = -1/2 cos^2(x) + constant
 Question: exit
 Good Bye!!!
 ```
+
